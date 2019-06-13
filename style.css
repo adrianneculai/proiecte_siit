@@ -1,0 +1,39 @@
+#Lista_elevi_warper {
+    float: left;
+    width: 100%;
+    background-color: rgb(192, 247, 91);
+    height: 100%;
+}
+
+#Note_elev_wraper {
+    background-color: rgb(74, 146, 255);
+    float: left;
+    width: 50%;
+    height: 100%;
+    display: none;
+}
+
+#tabel_lista_elevi {
+    margin-top: 20px;
+}
+
+table {
+    border: 1px solid black;
+    width: 98%;
+    padding: 5px;
+    margin: 5px;
+}
+
+input {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+#tabel_lista_note {
+    text-align: center;
+}
+
+button {
+    padding: 6px;
+}
